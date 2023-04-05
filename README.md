@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandolf88
 - 👀 I’m interested in learning more about universe.
-- 🌱 I’m currently learning Python and SQL language
+- 🌱 I’m currently learning BackEnd and some FrontEnd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
